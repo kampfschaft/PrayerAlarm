@@ -1,0 +1,59 @@
+NEGERI,ZON,KOD ZON
+KEDAH ,"ÿ Kota Setar, Kubang Pasu, Pokok Sena",ÿ KDH01
+KEDAH ,"ÿ Pendang, Kuala Muda, Yan",ÿ KDH02
+KEDAH ,"ÿ Padang Terap, Sik",ÿ KDH03
+KEDAH ,ÿ Baling,ÿ KDH04
+KEDAH ,"ÿ Kulim, Bandar Bahru",ÿ KDH05
+KEDAH ,ÿ Langkawi,ÿ KDH06
+KEDAH ,ÿ Gunung Jerai,ÿ KDH07
+PULAU PINANG ,ÿ Seluruh Negeri Pulau Pinang,ÿ PNG01
+PERAK ,"ÿ Tapah,Slim River dan Tanjung Malim",ÿ PRK01
+PERAK ,"ÿ Ipoh, Batu Gajah, Kampar, Sg. Siput dan Kuala Kangsar",ÿ PRK02
+PERAK ,"ÿ Pengkalan Hulu, Grik dan Lenggong",ÿ PRK03
+PERAK ,ÿ Temengor dan Belum,ÿ PRK04
+PERAK ,"ÿ Teluk Intan, Bagan Datoh, Kg.Gajah,Sri Iskandar, Beruas,Parit,Lumut,Setiawan dan Pulau Pangkor",ÿ PRK05
+PERAK ,"ÿ Selama, Taiping, Bagan Serai dan Parit Buntar",ÿ PRK06
+PERAK ,ÿ Bukit Larut,ÿ PRK07
+SELANGOR ,"ÿ Gombak,H.Selangor,Rawang, H.Langat,Sepang,Petaling, S.Alam",ÿ SGR01
+SELANGOR ,"ÿ Sabak Bernam, Kuala Selangor, Klang, Kuala Langat",ÿ SGR02
+KUALA LUMPUR,ÿ Kuala Lumpur,ÿ SGR03
+PUTRAJAYA ,ÿ Putrajaya,ÿ SGR04
+LABUAN,ÿ Labuan,ÿ WLY02
+NEGERI SEMBILAN ,"ÿ Jempol, Tampin",ÿ NGS01
+NEGERI SEMBILAN ,"ÿ Port Dickson, Seremban, Kuala Pilah, Jelebu, Rembau",ÿ NGS02
+MELAKA ,"ÿ Bandar Melaka, Alor Gajah, Jasin, Masjid Tanah, Merlimau, Nyalas",ÿ MLK01
+JOHOR ,ÿ Pulau Aur dan Pemanggil,ÿ JHR01
+JOHOR ,"ÿ Kota Tinggi, Mersing, Johor Bahru",ÿ JHR02
+JOHOR ,ÿ Kluang dan Pontian,ÿ JHR03
+JOHOR ,"ÿ Batu Pahat, Muar, Segamat, Gemas",ÿ JHR04
+PERLIS ,"ÿ Kangar, Padang Besar, Arau",ÿ PLS01
+PAHANG ,ÿ Pulau Tioman,ÿ PHG01
+PAHANG ,"ÿ Kuantan, Pekan, Rompin, Muadzam Shah",ÿ PHG02
+PAHANG ,"ÿ Maran, Chenor, Temerloh, Bera, Jerantut",ÿ PHG03
+PAHANG ,"ÿ Bentong, Raub, Kuala Lipis",ÿ PHG04
+PAHANG ,"ÿ Genting Sempah, Janda Baik, Bukit Tinggi",ÿ PHG05
+PAHANG ,"ÿ Bukit Fraser, Genting Higlands, Cameron Higlands",ÿ PHG06
+KELANTAN ,"ÿ K.Bharu,Bachok,Pasir Puteh,Tumpat,Pasir Mas,Tnh. Merah,Machang,Kuala Krai,Mukim Chiku",ÿ KTN01
+KELANTAN ,"ÿ Jeli, Gua Musang (Mukim Galas, Bertam)",ÿ KTN03
+TERENGGANU,"ÿ Kuala Terengganu, Marang",ÿ TRG01
+TERENGGANU,"ÿ Besut, Setiu",ÿ TRG02
+TERENGGANU,ÿ Hulu Terengganu,ÿ TRG03
+TERENGGANU,ÿ Kemaman Dungun,ÿ TRG04
+SABAH,"ÿ Zon 1 - Sandakan, Bdr. Bkt. Garam, Semawang, Temanggong, Tambisan",ÿ SBH01
+SABAH,"ÿ Zon 2 - Pinangah, Terusan, Beluran, Kuamut, Telupit",ÿ SBH02
+SABAH,"ÿ Zon 3 - Lahad Datu, Kunak, Silabukan, Tungku, Sahabat, Semporna",ÿ SBH03
+SABAH,"ÿ Zon 4 - Tawau, Balong, Merotai, Kalabakan",ÿ SBH04
+SABAH,"ÿ Zon 5 - Kudat, Kota Marudu, Pitas, Pulau Banggi",ÿ SBH05
+SABAH,ÿ Zon 6 - Gunung Kinabalu,ÿ SBH06
+SABAH,"ÿ Zon 7 - Papar, Ranau, Kota Belud, Tuaran, Penampang, Kota Kinabalu",ÿ SBH07
+SABAH,"ÿ Zon 8 - Pensiangan, Keningau, Tambunan, Nabawan",ÿ SBH08
+SABAH,"ÿ Zon 9 - Sipitang, Membakut, Beaufort, Kuala Penyu, Weston, Tenom, Long Pa Sia",ÿ SBH09
+SARAWAK,"ÿ Zon 1 - Limbang, Sundar, Terusan, Lawas",ÿ SWK01
+SARAWAK,"ÿ Zon 2 - Niah, Belaga, Sibuti, Miri, Bekenu, Marudi",ÿ SWK02
+SARAWAK,"ÿ Zon 3 - Song, Belingan, Sebauh, Bintulu, Tatau, Kapit",ÿ SWK03
+SARAWAK,"ÿ Zon 4 - Igan, Kanowit, Sibu, Dalat, Oya",ÿ SWK04
+SARAWAK,"ÿ Zon 5 - Belawai, Matu, Daro, Sarikei, Julau, Bitangor, Rajang",ÿ SWK05
+SARAWAK,"ÿ Zon 6 - Kabong, Lingga, Sri Aman, Engkelili, Betong, Spaoh, Pusa, Saratok, Roban, Debak",ÿ SWK06
+SARAWAK,"ÿ Zon 7 - Samarahan, Simunjan, Serian, Sebuyau, Meludam",ÿ SWK07
+SARAWAK,"ÿ Zon 8 - Kuching, Bau, Lundu,Sematan",ÿ SWK08
+SARAWAK,ÿ Zon 9 - Zon Khas,ÿ SWK09

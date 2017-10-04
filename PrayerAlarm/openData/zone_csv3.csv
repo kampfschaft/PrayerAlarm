@@ -1,0 +1,58 @@
+KEDAH ; Kota Setar, Kubang Pasu, Pokok Sena; KDH01
+KEDAH ; Pendang, Kuala Muda, Yan; KDH02
+KEDAH ; Padang Terap, Sik; KDH03
+KEDAH ; Baling; KDH04
+KEDAH ; Kulim, Bandar Bahru; KDH05
+KEDAH ; Langkawi; KDH06
+KEDAH ; Gunung Jerai; KDH07
+PULAU PINANG ; Seluruh Negeri Pulau Pinang; PNG01
+PERAK ; Tapah,Slim River dan Tanjung Malim; PRK01
+PERAK ; Ipoh, Batu Gajah, Kampar, Sg. Siput dan Kuala Kangsar; PRK02
+PERAK ; Pengkalan Hulu, Grik dan Lenggong; PRK03
+PERAK ; Temengor dan Belum; PRK04
+PERAK ; Teluk Intan, Bagan Datoh, Kg.Gajah,Sri Iskandar, Beruas,Parit,Lumut,Setiawan dan Pulau Pangkor; PRK05
+PERAK ; Selama, Taiping, Bagan Serai dan Parit Buntar; PRK06
+PERAK ; Bukit Larut; PRK07
+SELANGOR ; Gombak,H.Selangor,Rawang, H.Langat,Sepang,Petaling, S.Alam; SGR01
+SELANGOR ; Sabak Bernam, Kuala Selangor, Klang, Kuala Langat; SGR02
+KUALA LUMPUR; Kuala Lumpur; SGR03
+PUTRAJAYA ; Putrajaya; SGR04
+LABUAN; Labuan; WLY02
+NEGERI SEMBILAN ; Jempol, Tampin; NGS01
+NEGERI SEMBILAN ; Port Dickson, Seremban, Kuala Pilah, Jelebu, Rembau; NGS02
+MELAKA ; Bandar Melaka, Alor Gajah, Jasin, Masjid Tanah, Merlimau, Nyalas; MLK01
+JOHOR ; Pulau Aur dan Pemanggil; JHR01
+JOHOR ; Kota Tinggi, Mersing, Johor Bahru; JHR02
+JOHOR ; Kluang dan Pontian; JHR03
+JOHOR ; Batu Pahat, Muar, Segamat, Gemas; JHR04
+PERLIS ; Kangar, Padang Besar, Arau; PLS01
+PAHANG ; Pulau Tioman; PHG01
+PAHANG ; Kuantan, Pekan, Rompin, Muadzam Shah; PHG02
+PAHANG ; Maran, Chenor, Temerloh, Bera, Jerantut; PHG03
+PAHANG ; Bentong, Raub, Kuala Lipis; PHG04
+PAHANG ; Genting Sempah, Janda Baik, Bukit Tinggi; PHG05
+PAHANG ; Bukit Fraser, Genting Higlands, Cameron Higlands; PHG06
+KELANTAN ; K.Bharu,Bachok,Pasir Puteh,Tumpat,Pasir Mas,Tnh. Merah,Machang,Kuala Krai,Mukim Chiku; KTN01
+KELANTAN ; Jeli, Gua Musang (Mukim Galas, Bertam); KTN03
+TERENGGANU; Kuala Terengganu, Marang; TRG01
+TERENGGANU; Besut, Setiu; TRG02
+TERENGGANU; Hulu Terengganu; TRG03
+TERENGGANU; Kemaman Dungun; TRG04
+SABAH; Zon 1 - Sandakan, Bdr. Bkt. Garam, Semawang, Temanggong, Tambisan; SBH01
+SABAH; Zon 2 - Pinangah, Terusan, Beluran, Kuamut, Telupit; SBH02
+SABAH; Zon 3 - Lahad Datu, Kunak, Silabukan, Tungku, Sahabat, Semporna; SBH03
+SABAH; Zon 4 - Tawau, Balong, Merotai, Kalabakan; SBH04
+SABAH; Zon 5 - Kudat, Kota Marudu, Pitas, Pulau Banggi; SBH05
+SABAH; Zon 6 - Gunung Kinabalu; SBH06
+SABAH; Zon 7 - Papar, Ranau, Kota Belud, Tuaran, Penampang, Kota Kinabalu; SBH07
+SABAH; Zon 8 - Pensiangan, Keningau, Tambunan, Nabawan; SBH08
+SABAH; Zon 9 - Sipitang, Membakut, Beaufort, Kuala Penyu, Weston, Tenom, Long Pa Sia; SBH09
+SARAWAK; Zon 1 - Limbang, Sundar, Terusan, Lawas; SWK01
+SARAWAK; Zon 2 - Niah, Belaga, Sibuti, Miri, Bekenu, Marudi; SWK02
+SARAWAK; Zon 3 - Song, Belingan, Sebauh, Bintulu, Tatau, Kapit; SWK03
+SARAWAK; Zon 4 - Igan, Kanowit, Sibu, Dalat, Oya; SWK04
+SARAWAK; Zon 5 - Belawai, Matu, Daro, Sarikei, Julau, Bitangor, Rajang; SWK05
+SARAWAK; Zon 6 - Kabong, Lingga, Sri Aman, Engkelili, Betong, Spaoh, Pusa, Saratok, Roban, Debak; SWK06
+SARAWAK; Zon 7 - Samarahan, Simunjan, Serian, Sebuyau, Meludam; SWK07
+SARAWAK; Zon 8 - Kuching, Bau, Lundu,Sematan; SWK08
+SARAWAK; Zon 9 - Zon Khas; SWK09
