@@ -1,7 +1,6 @@
 C:\Users\kampfschaft\Documents\Visual Studio 2017\Projects\PrayerAlarm\PrayerAlarm\bin\Debug\PrayerAlarm.exe.config
 C:\Users\kampfschaft\Documents\Visual Studio 2017\Projects\PrayerAlarm\PrayerAlarm\bin\Debug\PrayerAlarm.exe
 C:\Users\kampfschaft\Documents\Visual Studio 2017\Projects\PrayerAlarm\PrayerAlarm\bin\Debug\PrayerAlarm.pdb
-C:\Users\kampfschaft\Documents\Visual Studio 2017\Projects\PrayerAlarm\PrayerAlarm\obj\Debug\PrayerAlarm.csprojResolveAssemblyReference.cache
 C:\Users\kampfschaft\Documents\Visual Studio 2017\Projects\PrayerAlarm\PrayerAlarm\obj\Debug\PrayerAlarm.Form1.resources
 C:\Users\kampfschaft\Documents\Visual Studio 2017\Projects\PrayerAlarm\PrayerAlarm\obj\Debug\PrayerAlarm.Properties.Resources.resources
 C:\Users\kampfschaft\Documents\Visual Studio 2017\Projects\PrayerAlarm\PrayerAlarm\obj\Debug\PrayerAlarm.csproj.GenerateResource.Cache
